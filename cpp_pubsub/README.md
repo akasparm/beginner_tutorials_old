@@ -27,7 +27,8 @@ Before running this package on a third-party system, make sure that the followin
     Navigate to your ROS 2 workspace and build the package using colcon.
 
     ```sh
-    cd cpp_pubsub
+    cd beginner_tutorials/cpp_pubsub
+    source /opt/ros/humble/setup.bash
     colcon build --packages-select cpp_pubsub
     ```
 
