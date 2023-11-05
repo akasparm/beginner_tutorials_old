@@ -11,7 +11,16 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
-
+/**
+ * @file subscriber_member_function.cpp
+ * @author Akashkumar Parmar (akasparm@umd.edu)
+ * @brief 
+ * @version 0.1
+ * @date 2023-11-05
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 #include <functional>
 #include <memory>
 
